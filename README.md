@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# richape
+# Welcome to my Landing Page - richape
 
 ## Table of Contents
 - [Introduction](#introduction)
