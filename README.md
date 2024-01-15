@@ -36,7 +36,7 @@ I have recently completed the Level 6 Certificate in Applied Web Development thr
 I have a couple personal projects I have not started yet.
 
 - One is a book a desk app for our work space where graduates who wish to come in to do some extra study or job hunting prep can book a desk. Users will be able to book a desk on a certain date or dates and also at what time.
-- Another is a [Human Skills reflection app](htpps://github.com/richape/human-skills): for mobile and desktop, because Google forms is difficult to work with. Students will be able to create a log in and the app will include assessments and text area to complete reflections. I want to be able to implement some kind of notification for students as well, reflections will be saved and should be editable.
+- Another is a [Human Skills reflection app](https://github.com/richape/human-skills): for mobile and desktop, because Google forms is difficult to work with. Students will be able to create a log in and the app will include assessments and text area to complete reflections. I want to be able to implement some kind of notification for students as well, reflections will be saved and should be editable.
 
 ## Skills
 ### Tech
