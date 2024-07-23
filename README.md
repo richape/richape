@@ -55,5 +55,5 @@ I have a couple personal projects I have not started yet.
 - Working remotely,
 
 ## Contact
-- Email: richard.hape@devacademy.co.nz
+- Email: rhape588@gmail.com
 - LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/richard-hape-05477363/)
