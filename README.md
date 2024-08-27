@@ -24,7 +24,11 @@ Here are some ideas to get you started:
 - [Contact](#contact)
 
 ## Introduction
-I have recently completed the Level 6 Certificate in Applied Web Development through my work place, Dev Academy Aotearoa. I have always been fascinated in Tech from Digital Art to wanting to be a game developer. My reason for recently wanting to go on this journey was to engage better with students as a Human Skills Facilitator. Now I feel like I am able to this at a higher level as I have learnt what students go through on a day to day basis and what tech languages and packages students will be exposed while studying at Dev Academy. On top of this achievement I have found out more about my style of learning and a keen interest in using these skills to develop my work from study and personal projects.
+I have recently completed the Level 6 Certificate in Applied Web Development through Dev Academy Aotearoa. I have always been fascinated in Tech from Digital Art to wanting to be a game developer. At the time my reason for wanting to go on this journey was to engage better with students as a Human Skills Facilitator. I feel like I was able to do this at a higher level as I had learnt what students went through on a day to day basis and what tech languages and packages students would be exposed to while studying at Dev Academy. On top of this achievement I have found out more about my style of learning and have a keen interest in using these skills to develop my work from study and personal projects.
+
+Now I am venturing in similar kind of work with Take2 in Newmarket, Auckland. Working with students who are apart of the New Zealand Corrections system. Using skills gained at Dev Academy in hopes to share those learnings to encourage and help students aspire to be developers in the Aotearoa Tech Sector.
+
+Still want to find time to complete my personal projects but at this stage I just want to settle in with my mahi.
 
 ## Projects
 - [My Blog](https://richape.github.io/index.html): This is my first project I worked on as part of the Foundations of learning Web Development using html & CSS,
