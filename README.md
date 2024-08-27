@@ -33,7 +33,7 @@ Still want to find time to complete my personal projects but at this stage I jus
 ## Projects
 - [My Blog](https://richape.github.io/index.html): This is my first project I worked on as part of the Foundations of learning Web Development using html & CSS,
 - [To do list](https://github.com/richape/Todo-List): This is a Todo list app that I did a code along to before Foundations using React.
-- [Matrix Effect](https://github.com/richape/matrix-effect): This is a project that I have been playing around with in between study. Trying to build the Matrix effect using html, CSS and Javascript. Work in progress.
+- [Matrix Effect](https://github.com/richape/matrix-effect): This was a project that I was playing around with in between study. Trying to build the Matrix effect using html, CSS and Javascript. Work in progress.
 - [My Comics](https://github.com/richape/my-comics): Link will be added.
 <!--
 ## Future Projects
